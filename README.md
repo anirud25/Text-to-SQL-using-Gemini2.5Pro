@@ -8,9 +8,7 @@ The app is built with Streamlit and deployed on Hugging Face Spaces.
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.51.0-FF4B4B?style=for-the-badge&logo=streamlit)](https://streamlit.io)
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 
-## 🚀 Live Demo
-
-Here is a brief demonstration of the app's capabilities:
+## 🚀 Demo
 
 ![Demo](https://github.com/anirud25/Text-to-SQL-LLM-Application/blob/master/Demo2.PNG)
 Available on Hugging Face Spaces - (https://huggingface.co/spaces/pandaaaboy/Text-to-SQL-Gemini2.5Pro)
