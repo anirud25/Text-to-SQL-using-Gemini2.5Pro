@@ -4,7 +4,7 @@ This project is an intelligent "Chat with your Database" application. It uses Go
 
 The app is built with Streamlit and deployed on Hugging Face Spaces.
 
-[![Run on Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/[YOUR_USERNAME]/[YOUR_SPACE_NAME])
+[![Run on Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/pandaaaboy/Text-to-SQL-Gemini2.5Pro)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.51.0-FF4B4B?style=for-the-badge&logo=streamlit)](https://streamlit.io)
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 
@@ -12,7 +12,6 @@ The app is built with Streamlit and deployed on Hugging Face Spaces.
 
 Here is a brief demonstration of the app's capabilities:
 
-[![Run Text-to-SQL Demo on HuggingFace Spaces](https://huggingface.co/spaces/pandaaaboy/Text-to-SQL-Gemini2.5Pro)]
 ![Demo](https://github.com/anirud25/Text-to-SQL-LLM-Application/blob/master/Demo2.PNG)
 
 ---
