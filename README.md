@@ -1,32 +1,20 @@
----
-title: Text-to-SQL with Gemini
-emoji: 🛢️🤖
-colorFrom: blue
-colorTo: green
-sdk: streamlit
-python_version: 3.10
-app_file: src/streamlit_app.py
-pinned: true
----
-
 # 🤖 Text-to-SQL with Gemini & Streamlit
 
-This project is an intelligent "Chat with your Database" application. It uses Google's Gemini Pro to convert natural language (plain English) questions into SQL queries, which are then executed against a user-uploaded SQLite database.
+This project is an intelligent "Chat with your Database" application. It uses Google's Gemini 2.5 Pro to convert natural language (plain English) questions into SQL queries, which are then executed against a user-uploaded SQLite database.
 
 The app is built with Streamlit and deployed on Hugging Face Spaces.
 
 [![Run on Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/[YOUR_USERNAME]/[YOUR_SPACE_NAME])
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.39.0-FF4B4B?style=for-the-badge&logo=streamlit)](https://streamlit.io)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.51.0-FF4B4B?style=for-the-badge&logo=streamlit)](https://streamlit.io)
 [![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
 
 ## 🚀 Live Demo
 
 Here is a brief demonstration of the app's capabilities:
 
-![Text-to-SQL Demo (HuggingFace Spaces)]([https://huggingface.co/spaces/pandaaaboy/Text-to-SQL-Gemini2.5Pro])
-([Demo2.PNG])
+![Run Text-to-SQL Demo on HuggingFace Spaces)](https://huggingface.co/spaces/pandaaaboy/Text-to-SQL-Gemini2.5Pro)
+![alt text](https://github.com/anirud25/Text-to-SQL-LLM-Application/blob/master/Demo2.PNG)
 
-*
 ---
 
 ## 📋 Table of Contents
