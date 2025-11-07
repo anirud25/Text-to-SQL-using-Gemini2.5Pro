@@ -25,7 +25,6 @@ Available on Hugging Face Spaces - (https://huggingface.co/spaces/pandaaaboy/Tex
   - [File Structure](#file-structure)
   - [Hugging Face Secrets](#hugging-face-secrets)
   - [Troubleshooting: 403 Error Fix](#troubleshooting-403-error-fix)
-- [Future Improvements](#-future-improvements)
 
 ---
 
